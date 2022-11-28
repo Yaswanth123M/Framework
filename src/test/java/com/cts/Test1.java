@@ -15,6 +15,18 @@ public class Test1 {
 		
 		
 	}
+    private void Usa() {
+		
+	}
+	private void Australia() {
+		
+
+	}
 	
+	private void japan() {
+		
+
+	}
+
 }	
 	
